@@ -330,8 +330,8 @@ rm -f tls.key tls.csr tls.crt *.yaml test-ingress.sh
 ## 👤 Author
 
 **Your Name**
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [your-github](https://github.com/your-username)
+- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7449984850012463104/?originTrackingId=iVKYty5ZbSuypG6P94oY8Q%3D%3D)
+- 🐙 GitHub: [your-github](https://github.com/waqar-pro?tab=repositories)
 
 ---
 
